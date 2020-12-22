@@ -1,0 +1,2 @@
+# GlobalAlHubPythonHomework
+deneme
